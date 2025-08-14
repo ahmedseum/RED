@@ -1,0 +1,9 @@
+| Register | Value / Role                      |
+| -------- | --------------------------------- |
+| **RAX**  | System call number / return value |
+| **RDI**  | 1st argument                      |
+| **RSI**  | 2nd argument                      |
+| **RDX**  | 3rd argument                      |
+| **R10**  | 4th argument                      |
+| **R8**   | 5th argument                      |
+| **R9**   | 6th argument                      |
